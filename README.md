@@ -1,8 +1,12 @@
-Strayacoin Core integration/staging tree
+Important Information
 =====================================
 
+This repository is no longer being maintained, please refer to it's new home:
+https://github.com/47crypto/straya-coin
 
+Webpage:
 https://www.strayacoin.org/
+
 
 What is strayacoin?
 ----------------
